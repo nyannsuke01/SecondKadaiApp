@@ -15,6 +15,7 @@
 		CEB8B5CD24CC6A5C0032E251 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB8B5CB24CC6A5C0032E251 /* LaunchScreen.storyboard */; };
 		CEB8B5D824CC6A5C0032E251 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B5D724CC6A5C0032E251 /* SecondKadaiAppTests.swift */; };
 		CEB8B5E324CC6A5D0032E251 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B5E224CC6A5D0032E251 /* SecondKadaiAppUITests.swift */; };
+		CEB8B5F124CC6E4A0032E251 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB8B5F024CC6E4A0032E251 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CEB8B5DE24CC6A5D0032E251 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB8B5E224CC6A5D0032E251 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		CEB8B5E424CC6A5D0032E251 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEB8B5F024CC6E4A0032E251 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CEB8B5C024CC6A5A0032E251 /* AppDelegate.swift */,
 				CEB8B5C224CC6A5A0032E251 /* SceneDelegate.swift */,
 				CEB8B5C424CC6A5A0032E251 /* ViewController.swift */,
+				CEB8B5F024CC6E4A0032E251 /* ResultViewController.swift */,
 				CEB8B5C624CC6A5A0032E251 /* Main.storyboard */,
 				CEB8B5C924CC6A5C0032E251 /* Assets.xcassets */,
 				CEB8B5CB24CC6A5C0032E251 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				CEB8B5C524CC6A5A0032E251 /* ViewController.swift in Sources */,
 				CEB8B5C124CC6A5A0032E251 /* AppDelegate.swift in Sources */,
 				CEB8B5C324CC6A5A0032E251 /* SceneDelegate.swift in Sources */,
+				CEB8B5F124CC6E4A0032E251 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
